@@ -1,1 +1,1 @@
-My first readme
+Learning git with command line
